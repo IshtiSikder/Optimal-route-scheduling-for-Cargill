@@ -1,0 +1,31 @@
+name,non_medicated_yard__c,begin__c,end__c,unique_customer_id,loads
+"Green Plains Cattle Company, LLC",FALSE,700,1200,001d000001iSxhXAAS,3
+W Diamond Dairy,FALSE, , ,001d000000GxWp0AAF,4
+Monty Cates - Valley View,FALSE, , ,001d000000GxWs3AAF,5
+Monty Cates - Valley View,FALSE, , ,001d000000GxWslAAF,7
+Riverview-Dollymount Dairy,FALSE, , ,001d000000GxWtOAAV,4
+Faria Southside 2,FALSE, , ,001d000000GxWqhAAF,3
+Roorda Dairy LLC,FALSE, , ,001d000000GxWt5AAF,2
+Brian Roorda Dairy LLC (BRD),FALSE,700,1700,001d000000GxX0vAAF,4
+Riverview-Louristan Dairy,FALSE, , ,001d000000GxWwyAAF,5
+Mathews Dairy-West,FALSE, , ,001d000000GxWylAAF,2
+Leslies Dairy,FALSE, , ,001d000000GxWvbAAF,9
+Potter Feedlot - Perico,FALSE, , ,001d000000GxWx9AAF,2
+Iowa State University-ISU Beef Nutrition Research Unit,FALSE,800,2359,001d000000GxWxAAAV,3
+"Tierra Blanca Cattle Feeders,LP",FALSE,600,1700,001d000000GxWvsAAF,4
+Riverview-Campbell Dairy,FALSE, , ,001d000000GxWvcAAF,5
+J-Lu Dairy,FALSE, , ,001d000000GxWu6AAF,3
+C & B Feeders Inc.,FALSE, , ,001d000000HbMv3AAF,2
+"Knobbe, Harry Feedyards LLC",FALSE, , ,001d000000JTa1eAAD,1
+"Weborg Feeding Company, LLC",FALSE,1030,2359,001d000000GxWw9AAF,3
+Muller Farms Inc.,FALSE, , ,001d000000GxWzDAAV,4
+Weitzenkamp Farms Inc.-North,FALSE, , ,001d000000GxWzIAAV,3
+Weber Feedyards LLC,FALSE, , ,001d000000GxWwJAAV,2
+Sunderman-East,FALSE, , ,001d000000JTa3KAAT,2
+Sunderman - Daniel,FALSE, , ,001d00000227fHeAAI,2
+Heine Farms Feedyard LLC,FALSE, , ,001d0000024IYakAAG,2
+KMC Farms Ltd.,FALSE, , ,001d0000026wgrvAAA,7
+HS Farms Ltd,TRUE, , ,001d000000GxWxTAAV,8
+"Cumming, Alan",FALSE,700,1800,001d000000GxWmoAAF,6
+Logan Valley Feeders Inc.,FALSE, , ,001d000000GxWu3AAF,7
+"Klug, Bill",TRUE, , ,001d000000GxWvWAAV,6

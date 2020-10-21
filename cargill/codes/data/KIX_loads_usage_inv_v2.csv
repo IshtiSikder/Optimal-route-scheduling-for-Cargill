@@ -1,0 +1,70 @@
+custcode,prodcode,customername,product,productfamily,current_inventory,productusage,kix_loads
+001d000000GxWogAAF,01td00000042fbYAAQ,D B Feedyards Inc.                                    ,V5007,SB Plus   ,1.1,0.18,1
+001d000000GxWtlAAF,01td0000003afgTAAQ,"Dutch Dakota Dairy, LLC                               ",T6030,OneTrak   ,3.24,0.48,1
+001d000000GxWslAAF,01td0000003afgEAAQ,Linn Willow Creek Dairy LLC                    ,T6025,OneTrak   ,1.22,0.81,1
+001d000001QLNS6AAP,01t0V0000053K2dQAE,Texico Jerseys LLC               ,T7995,OneTrak   ,3.81,0.79,1
+001d000000GxWwkAAF,01td0000003afdTAAQ,Quality Beef Producers LLP                     ,R3000,RAMP      ,2.48,1.56,2
+001d000000GxX0hAAF,01td0000003afgOAAQ,"Optima Dairy Texas, LLC                        ",T7030,OneTrak   ,3.98,1.43,1
+001d000000GxWxSAAV,01td0000003afdTAAQ,Flint Rock Feeders                                    ,R3000,RAMP      ,1.04,0.59,2
+001d000000GxWxTAAV,01td0000003afdTAAQ,Hansford County Feeders LP                            ,R3000,RAMP      ,1.11,1.54,3
+001d000000JTa3KAAT,01td0000003afdTAAQ,"Tejas Feeders, Ltd.                            ",R3000,RAMP      ,2.75,0.97,1
+001d000000GxWsIAAV,01td0000003affVAAQ,Ohlde Dairy LLC                                ,T6015,OneTrak   ,3.06,0.84,1
+001d000000GxWvgAAF,01td0000003afZSAAY,Cactus Feedyard                                       ,V0315,SB Plus   ,1.02,4.84,3
+001d000000GxX1eAAF,01td0000003afdTAAQ,Cimarron Feeders                                      ,R3000,RAMP      ,0.92,2.43,4
+001d000000JTa1eAAD,01td0000003afdTAAQ,Hartley Feeders                                       ,R3000,RAMP      ,1.25,4.12,3
+0010V00002GrJrLQAV,01t0V000005iOgzQAE,Osterkamp Dairy East                           ,T7105,OneTrak   ,4.08,1.74,3
+001d000000GxWu6AAF,01td0000003afdYAAQ,Hale Center Feedyard                                  ,R4000,RAMP      ,1.58,2.97,2
+001d000000GxWvfAAF,01td0000003afdYAAQ,Frontier Feedyard                                     ,R4000,RAMP      ,1.02,2.68,3
+001d000000JTa1eAAD,01t0V00000534sXQAQ,Hartley Feeders                                       ,V0500,SB Plus   ,1.53,5.74,9
+001d000000GxWu6AAF,01td0000003afYsAAI,Hale Center Feedyard                                  ,V0195,SB Plus   ,1.28,3.25,3
+001d000000GxWu8AAF,01td0000003afdYAAQ,Wrangler Feedyard                ,R4000,RAMP      ,2.28,1.93,2
+001d000000GxWylAAF,01td00000042WWkAAM,Boer Dairy                                            ,T7047,OneTrak   ,1.8,1.15,1
+001d000000GxWvbAAF,01td0000003afdYAAQ,Stratford Feedyard                             ,R4000,RAMP      ,16.97,2.25,4
+001d000000GxWvjAAF,01td0000003afWrAAI,Adcock Family Ltd Partnership                         ,V0055,SB Plus   ,2.11,0.9,1
+001d000000GxWu8AAF,01td0000003afYsAAI,Wrangler Feedyard                ,V0195,SB Plus   ,1.19,3.35,2
+001d000000GxWteAAF,01td0000003afemAAA,"Hickory Hill Farms, Inc.                              ",781,OneTrak   ,4.89,1.36,2
+001d000000GxWx3AAF,01td0000003afcaAAA,Dawn Custom Cattle Feeders Inc                        ,V0390,SB Plus   ,2.2,2.19,2
+001d000002AJDz2AAH,01td0000003afdTAAQ,Tejas Feeders West                             ,R3000,RAMP      ,4.32,1.45,1
+001d000000JTa3KAAT,01td000000526hsAAA,"Tejas Feeders, Ltd.                            ",V0450,SB Plus   ,1.39,4.79,5
+001d000000GxWzfAAF,01td0000003u2jpAAA,"MasCow Dairy, LLC                              ",T7057,OneTrak   ,1.31,2.31,3
+0010V00002C4S8uQAF,01t0V0000053K2dQAE,W Diamond Dairy                  ,T7995,OneTrak   ,2.42,1.93,2
+001d000000GxX0WAAV,01td0000003u2jpAAA,"Tuls Dairy Farms, LLC            ",T7057,OneTrak   ,7.52,2.48,3
+001d000000GxWvsAAF,01td0000003u5rfAAA,Dean Cluck Feedyard-Dimmitt                           ,V0437,SB Plus   ,1.3,4.27,4
+001d000000GxWvdAAF,01td0000003afdYAAQ,Ulysses Feedyard                 ,R4000,RAMP      ,2.37,4.27,4
+001d000001T4M4zAAF,01td0000003afcLAAQ,Spearman Feeders LTD                           ,V0385,SB Plus   ,6.21,5.37,8
+001d000000GxWwkAAF,01td000000526hsAAA,Quality Beef Producers LLP                     ,V0450,SB Plus   ,1.62,2.98,1
+001d000000GxWq0AAF,01td00000042fbnAAA,"Klug, Bill                                     ",V5022,SB Plus   ,2.13,0.75,1
+001d000000JTa0EAAT,01t0V000005uZwbQAE,J7 Dairy LLC(KS)                                      ,T7155,OneTrak   ,2.01,1.82,2
+001d000000GxWviAAF,01td0000003afWrAAI,Adcock Family Ltd Partnership -Miami                  ,V0055,SB Plus   ,3.49,0.48,1
+001d000000GxWrKAAV,01t0V000004cEKzQAM,T B R Inc.                                     ,V5115,SB Plus   ,4.32,0.16,1
+001d000000GxWvZAAV,01td0000003afYTAAY,Kirkland Feedyard Inc.                         ,V0170,SB Plus   ,2.35,2.28,2
+001d000000GxWw9AAF,01td0000003afdTAAQ,XIT Feeders                      ,R3000,RAMP      ,1.34,3.79,3
+001d000000GxWzFAAV,01t0V0000053ERwQAM,G-2 Producers-Harvest Dairy                           ,T7073,OneTrak   ,1.19,1.07,2
+001d000000GxX2xAAF,01td0000003afemAAA,Hammink Dairy LLC                                     ,781,OneTrak   ,1.09,0.97,1
+001d000000GxWsLAAV,01td0000003afd9AAA,"Diamond 6 Feeders, Inc.                               ",V5035,SB Plus   ,1.34,1.41,2
+001d000000GxWwfAAF,01t0V000004nxFgQAI,Brouwer Dairy                                         ,T7125,OneTrak   ,3.35,1.59,2
+001d000000GxWu7AAF,01td0000003afY9AAI,Southwest Feedyard                             ,V0150,SB Plus   ,3.37,3.29,2
+001d000000GxWu7AAF,01td0000003afdYAAQ,Southwest Feedyard                             ,R4000,RAMP      ,4.02,2.18,3
+0010V00002IY3iRQAT,01t0V000004ncukQAA,Roorda Dairy LLC                               ,T6115,OneTrak   ,2.44,1.69,2
+001d000000GxX1gAAF,01t0V0000053K2dQAE,Mission Dairy                                  ,T7995,OneTrak   ,3.74,2.12,1
+001d000000GxWvWAAV,01td0000003afdTAAQ,"Bovina Feeders, Inc.                                  ",R3000,RAMP      ,3.44,2.43,1
+001d000000GxWvcAAF,01td0000003afZMAAY,Wolf Creek Feedyard              ,V0225,SB Plus   ,1.81,5.78,8
+0010V00002IaNJNQA3,01td00000052vrGAAQ,Mathews Dairy-West                             ,T7092,OneTrak   ,2.37,1.75,1
+001d0000024IYakAAG,01td0000003afdYAAQ,Centerfire Feedyard                                   ,R4000,RAMP      ,5.85,1.41,4
+001d000000JTa0HAAT,01td000000526hsAAA,Quien Sabe Feeders                             ,V0450,SB Plus   ,3.68,5.97,6
+001d000000GxX33AAF,01td00000042FVzAAM,Van Ess Dairy LLC                ,T6042,OneTrak   ,5.06,2.2,1
+001d000000GxWvcAAF,01td0000003afdYAAQ,Wolf Creek Feedyard              ,R4000,RAMP      ,1.81,2.19,2
+001d000000GxWvgAAF,01td0000003afdYAAQ,Cactus Feedyard                                       ,R4000,RAMP      ,1.05,3.37,3
+001d000000GxX0gAAF,01t0V0000053K2dQAE,Morning Star Dairy LLC                         ,T7995,OneTrak   ,1.85,7.32,6
+001d000000GxWzEAAV,01t0V0000053ERwQAM,G-2 Producers - East                                  ,T7073,OneTrak   ,1.16,1.94,3
+001d000000GxWwcAAF,01t0V0000053K2dQAE,VacaCo LLC                       ,T7995,OneTrak   ,5.56,1.14,2
+001d000000GxWzdAAF,01td0000003u2jpAAA,Lost Trail Dairy LLC - #1                      ,T7057,OneTrak   ,1.14,2.36,3
+001d000000GxWwJAAV,01td0000003afdTAAQ,Grant County Feeders                                  ,R3000,RAMP      ,1.69,2.62,3
+001d000000GxWvbAAF,01td00000052V6iAAE,Stratford Feedyard                             ,V0357,SB Plus   ,4.14,5.51,6
+001d000000GxWzeAAF,01td0000003u2jpAAA,Lost Trail Dairy LLC - #2                      ,T7057,OneTrak   ,1.22,1.61,2
+001d000000JTa4zAAD,01t0V000004o37ZQAQ,Grande Vida LLC                                       ,T7150,OneTrak   ,1.5,1.59,2
+001d000000GxWzhAAF,01t0V000004nicWQAQ,"Mc6 Cattle Feeders, Inc.                       ",V0505,SB Plus   ,1.77,3.64,4
+0010V00002IawzcQAB,01t0V000004o3xNQAQ,Van Ess Legacy Dairy             ,T6130,OneTrak   ,1.99,1.16,1
+001d000000GxWzhAAF,01td0000003afdTAAQ,"Mc6 Cattle Feeders, Inc.                       ",R3000,RAMP      ,1.92,0.8,1
+001d000000GxWvfAAF,01td0000003afZMAAY,Frontier Feedyard                                     ,V0225,SB Plus   ,1.29,2.21,1
+001d000001pvabaAAA,01td000000526hsAAA,CanTex Feeders LP                                     ,V0450,SB Plus   ,2.43,3.26,4

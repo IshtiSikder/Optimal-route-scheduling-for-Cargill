@@ -1,0 +1,162 @@
+﻿customer_name__c,non_medicated_yard__c,grade_family__c,grade_name__c,miles_round_trip__c,avg_mph__c,plant_name,feed_day_start__c,feed_day_end__c,unique_customer_id
+Kelly Hills Dairy Inc.,FALSE,OneTrak,T6082,144,45,Blair,500,1400,001d000001iSxhXAAS
+V. Hansen Land and Cattle Co.,FALSE,SB Plus,V5012,19,45,Blair,700,1500,001d000000GxWp0AAF
+Rottinghaus Family Dairy Inc.,FALSE,OneTrak,T6007,136,45,Blair,500,1400,001d000000GxWs3AAF
+Linn Willow Creek Dairy LLC,FALSE,OneTrak,T6025,179,45,Blair,500,1400,001d000000GxWslAAF
+"Highland Feeders, Inc.",FALSE,SB Plus,V5015,119,45,Blair,600,1800,001d000000GxWtOAAV
+"Schechinger Farms, Inc.",FALSE,Sweet Bran,SB60,48,45,Blair,700,1700,001d000000GxWqhAAF
+"Klug, James",FALSE,Sweet Bran,SB60,70,45,Blair,700,1700,001d000000GxWt5AAF
+"Faria Brothers Dairies, LLC",FALSE,Sweet Bran,SB60,28,55,Dalhart,500,1400,001d000000GxX0vAAF
+McClain Feedyard,FALSE,Sweet Bran,SB60,38,55,Bovina,600,1600,001d000000GxWwyAAF
+Boer Dairy,FALSE,OneTrak,T7045,14,55,Dalhart,400,1500,001d000000GxWylAAF
+Stratford Feedyard,FALSE,RAMP,R4000,37,55,Dalhart,500,1500,001d000000GxWvbAAF
+Texas Beef Producers Feedyard,FALSE,Sweet Bran,SB60,51,55,Dalhart,500,1500,001d000000GxWx9AAF
+Palo Duro Feedyard,FALSE,Sweet Bran,SB60,70,55,Dalhart,600,1600,001d000000GxWxAAAV
+Dean Cluck Feedyard-Dimmitt,FALSE,SB Plus,V0435,29,55,Bovina,600,1800,001d000000GxWvsAAF
+Wolf Creek Feedyard,FALSE,RAMP,R4000,117,55,Dalhart,600,1430,001d000000GxWvcAAF
+Hale Center Feedyard,FALSE,RAMP,R4000,76,55,Bovina,500,1500,001d000000GxWu6AAF
+Berry Cattle LLC,FALSE,Sweet Bran,SB60,65,55,Bovina,600,1600,001d000000HbMv3AAF
+Hartley Feeders,FALSE,RAMP,R3000,20,55,Dalhart,500,1400,001d000000JTa1eAAD
+XIT Feeders,FALSE,Sweet Bran,SB60,13,55,Dalhart,500,1330,001d000000GxWw9AAF
+Faria Dumas Dairy,FALSE,Sweet Bran,SB60,36,55,Dalhart,500,1400,001d000000GxWzDAAV
+Faria Etter Dairy,FALSE,Sweet Bran,SB60,31,55,Dalhart,500,1400,001d000000GxWzIAAV
+Grant County Feeders,FALSE,RAMP,R3000,153,55,Dalhart,700,1400,001d000000GxWwJAAV
+"Tejas Feeders, Ltd.",FALSE,SB Plus,V0450,154,55,Bovina,600,1800,001d000000JTa3KAAT
+Faria Brothers Hartley,FALSE,Sweet Bran,SB60,15,55,Dalhart,500,1400,001d00000227fHeAAI
+Centerfire Feedyard,FALSE,RAMP,R4000,146,55,Dalhart,500,1500,001d0000024IYakAAG
+Dalhart Cattle Feeders,FALSE,Sweet Bran,SB60,16,55,Dalhart,600,1800,001d0000026wgrvAAA
+Hansford County Feeders LP,TRUE,RAMP,R3000,84,55,Dalhart,600,1600,001d000000GxWxTAAV
+C & B Feeders Inc.,FALSE,Sweet Bran,SB60,61,55,Dalhart,600,1600,001d000000GxWmoAAF
+Randall County Feedyard,FALSE,Sweet Bran,SB60,68,55,Bovina,500,1500,001d000000GxWu3AAF
+"Bovina Feeders, Inc.",TRUE,SB Plus,V0445,27,55,Bovina,500,1500,001d000000GxWvWAAV
+Southwest Feedyard,FALSE,RAMP,R4000,43,55,Bovina,515,1430,001d000000GxWu7AAF
+Cactus Feedyard,FALSE,RAMP,R4000,34,55,Dalhart,700,1500,001d000000GxWvgAAF
+Wrangler Feedyard,FALSE,RAMP,R4000,74,55,Bovina,500,1500,001d000000GxWu8AAF
+"Seedstock Investments, Inc.",FALSE,Sweet Bran,SB60,39,55,Bovina,600,1600,001d000000GxWtgAAF
+Frontier Feedyard,FALSE,SB Plus,V0225,97,55,Dalhart,500,1500,001d000000GxWvfAAF
+Hammink Dairy LLC,FALSE,OneTrak,781,229,45,Blair,400,1400,001d000000GxX2xAAF
+"Klug, Bill",FALSE,SB Plus,V5020,73,45,Blair,600,1800,001d000000GxWq0AAF
+Ohlde Dairy LLC,FALSE,OneTrak,T6015,175,45,Blair,500,1400,001d000000GxWsIAAV
+Amsberry Farms LTD,FALSE,Sweet Bran,SB60,187,45,Blair,700,1700,001d000000GxX1vAAF
+Kansas State University,TRUE,Sweet Bran,SB60,212,45,Blair,600,1800,001d000000GxWzPAAV
+Ulysses Feedyard,FALSE,RAMP,R4000,134,55,Dalhart,500,1500,001d000000GxWvdAAF
+Coronado Feeders,FALSE,RAMP,R3000,15,55,Dalhart,530,1300,001d000000GxX2iAAF
+Faria Brothers - Heifer,FALSE,Sweet Bran,SB60,28,55,Dalhart,500,1400,001d00000102KubAAE
+Engelmeyer Farms Inc.,FALSE,Sweet Bran,SB60,54,45,Blair,700,1700,001d000000GxX3HAAV
+P K Feeders,FALSE,Sweet Bran,SB60,56,45,Blair,700,1700,001d000000GxWp7AAF
+Doernemann Cattle LLC,FALSE,Sweet Bran,SB60,66,45,Blair,700,1600,001d000000GxWpHAAV
+Logan Valley Feeders Inc.,FALSE,Sweet Bran,SB60,40,45,Blair,700,1700,001d000000GxWpaAAF
+Holthaus Brothers LLC,FALSE,Sweet Bran,SB60,167,45,Blair,700,1500,001d000000GxWsgAAF
+Craig Cattle LLC,TRUE,Sweet Bran,SB60,35,45,Blair,630,1700,001d000000GxWtDAAV
+Cimarron Feeders,FALSE,RAMP,R3000,45,55,Dalhart,530,1530,001d000000GxX1eAAF
+Wheeler Land & Livestock LLC,FALSE,SB Plus,V0310,150,55,Dalhart,500,1500,001d000000GxWxxAAF
+Smith Cattle-Proctor Ranch,FALSE,RAMP,R3000,42,55,Dalhart,600,1500,001d000000GxWxMAAV
+Potter Feedlot,FALSE,Sweet Bran,SB60,12,55,Dalhart,600,1600,001d000000GxWxlAAF
+Flint Rock Feeders,TRUE,RAMP,R3000,79,55,Dalhart,600,1600,001d000000GxWxSAAV
+"Diamond 6 Feeders, Inc.",TRUE,SB Plus,V5035,54,45,Blair,630,1700,001d000000GxWsLAAV
+Weitzenkamp Farms Inc.-North,FALSE,Sweet Bran,SB60,38,45,Blair,700,1700,001d000000GxWoiAAF
+"UNL - Beef Feedlot, ARDC",TRUE,Sweet Bran,SB60,45,45,Blair,600,1800,001d000000GxX4zAAF
+"Valley View Feeders, Inc.",FALSE,Sweet Bran,SB60,212,45,Blair,700,1700,001d000000GxWq3AAF
+"Urban, Dean G.",FALSE,Sweet Bran,SB60,77,45,Blair,700,1700,001d000000GxWrCAAV
+Dicke Feedyards,TRUE,Sweet Bran,SB60,87,45,Blair,700,1700,001d000000GxWtQAAV
+Faria Southside 1,FALSE,Sweet Bran,SB60,42,55,Bovina,500,1400,001d000001sQNU9AAO
+Peterson Place-Andrew Sunderman Acct,FALSE,Sweet Bran,SB60,97,45,Blair,700,1700,001d000001rmMtAAAU
+"Wordekemper Farms, Inc.",FALSE,Sweet Bran,SB60,55,45,Blair,700,1700,001d000000GxWqyAAF
+T B R Inc.,FALSE,Sweet Bran,SB60,17,45,Blair,700,1400,001d000000GxWrKAAV
+Deltu Farm Inc,FALSE,OneTrak,T6035,121,45,Blair,500,1400,001d000000GxWrRAAV
+Kriete - Paul,FALSE,Sweet Bran,SB60,29,45,Blair,700,1600,001d000000GxWqwAAF
+"Sparkman Cattle Feeders, Inc.",FALSE,Sweet Bran,SB60,44,55,Bovina,600,1600,001d000000GxWvnAAF
+Kriete - John,FALSE,Sweet Bran,SB60,29,45,Blair,700,1600,001d000000GxWqvAAF
+Wolff Place-Andrew Sunderman Acct,FALSE,Sweet Bran,SB60,99,45,Blair,700,1700,001d000001rmMXEAA2
+D B Feedyards Inc.,FALSE,SB Plus,V5007,36,45,Blair,600,1800,001d000000GxWogAAF
+Prinz Incorporated,FALSE,Sweet Bran,SB60,49,45,Blair,700,1700,001d000000GxWpAAAV
+Urwiler Feeders Incorporated,FALSE,Sweet Bran,SB60,63,45,Blair,630,1700,001d000000GxWrIAAV
+Engelmeyer Farms Inc.-North,FALSE,Sweet Bran,SB60,56,45,Blair,700,1700,001d000000GxWnzAAF
+Kansas State Univ-Dairy Unit,TRUE,Sweet Bran,SB60,213,45,Blair,600,1800,001d000000GxWzQAAV
+Orville Hoffschneider & Sons,FALSE,Sweet Bran,SB60,115,45,Blair,700,1600,001d000000GxWt4AAF
+Morgan Feedlot LLC,FALSE,Sweet Bran,SB60,55,45,Blair,700,1700,001d000000ISiMgAAL
+Kansas State Univ-Beef Stocker,TRUE,Sweet Bran,SB60,220,45,Blair,600,1800,001d000000GxWzOAAV
+Sunderman-East,FALSE,Sweet Bran,SB60,97,45,Blair,700,1700,001d000000GxWosAAF
+Daryl & Craig Deters,FALSE,OneTrak,T6070,147,45,Blair,600,1800,001d000001wwiCbAAI
+CanTex Feeders LP,FALSE,SB Plus,V0450,157,55,Bovina,600,1800,001d000001pvabaAAA
+"Cumming, Alan",FALSE,Sweet Bran,SB60,59,45,Blair,700,1600,001d000000GxWpFAAV
+West Texas A&M University,TRUE,Sweet Bran,SB60,79,55,Bovina,600,1800,001d000000GxX0NAAV
+"Nebraska ILS Feeders, Inc. dba Windmill Feeders",FALSE,Sweet Bran,SB60,155,45,Blair,700,1700,001d000000GxWrTAAV
+Heine Farms Feedyard LLC,FALSE,Sweet Bran,SB60,146,45,Blair,700,1700,001d000000GxWoxAAF
+Kirkland Feedyard Inc.,FALSE,SB Plus,V0170,70,55,Bovina,600,1600,001d000000GxWvZAAV
+Weitzenkamp Farms Inc.-South,FALSE,Sweet Bran,SB60,40,45,Blair,700,1700,001d000000GxWojAAF
+Buessing Holsteins LLC,FALSE,OneTrak,T6010,152,45,Blair,500,1400,001d000000GxWtkAAF
+"Kirkham, Kelly L.",FALSE,Sweet Bran,SB60,189,45,Blair,700,1500,001d000000GxX2zAAF
+Stallbaumer Cattle Feeders Inc,FALSE,Sweet Bran,SB60,158,45,Blair,700,1500,001d000000GxX2qAAF
+KMC Farms Ltd.,FALSE,Sweet Bran,SB60,90,45,Blair,700,1700,001d000000GxWpBAAV
+New Balance Commodities-NVF CO. LLC,FALSE,Sweet Bran,SB60,102,45,Blair,700,1700,001d000001j5wZ2AAI
+Northeast Nebraska Feeders,FALSE,Sweet Bran,SB60,119,45,Blair,700,1700,001d000000GxWswAAF
+Oklahoma State University,TRUE,Sweet Bran,SB60,340,55,Dalhart,600,1800,001d000000IRIHPAA5
+Muller Farms Inc.,FALSE,SB Plus,V5090,40,45,Blair,700,1700,001d000000GxWohAAF
+"Weiler, Steve",FALSE,Sweet Bran,SB60,54,45,Blair,700,1700,001d000000GxWquAAF
+Thomsen Farms,FALSE,Sweet Bran,SB60,74,45,Blair,700,1700,001d000000GxWrxAAF
+Quien Sabe Feeders,FALSE,SB Plus,V0450,86,55,Bovina,600,1800,001d000000JTa0HAAT
+Quality Beef Producers LLP,FALSE,SB Plus,V0450,72,55,Bovina,600,1800,001d000000GxWwkAAF
+"Spenner, Ray",FALSE,Sweet Bran,SB60,53,45,Blair,700,1500,001d000000GxWpVAAV
+Ver Steegh Bros Farm Partnersh,FALSE,Sweet Bran,SB60,251,45,Blair,700,1700,001d000000GxWq6AAF
+HS Farms Ltd,FALSE,SB Plus,V5042,89,45,Blair,500,1500,001d000000GxWpCAAV
+Adcock Family Ltd Partnership,FALSE,SB Plus,V0055,58,55,Dalhart,600,1600,001d000000GxWvjAAF
+Porter Cattle Co.,FALSE,Sweet Bran,SB60,248,45,Blair,700,1700,001d000000GxWpfAAF
+Adcock Family Ltd Partnership -Miami,FALSE,SB Plus,V0055,130,55,Dalhart,600,1600,001d000000GxWviAAF
+Gall Brothers Feedlot,FALSE,SB Plus,V5027,70,45,Blair,700,1600,001d000000GxWsiAAF
+JDR Farms Inc - Krusemark,FALSE,Sweet Bran,SB60,75,45,Blair,700,1700,001d000000GxWqVAAV
+Texas Tech University,TRUE,Sweet Bran,SB60,105,55,Bovina,600,1800,001d000000GxX0FAAV
+Buessing Dairy,FALSE,OneTrak,T6020,139,45,Blair,500,1400,001d000000GxWrfAAF
+Koenen Dairy,FALSE,OneTrak,T6097,129,45,Blair,500,1400,001d000000JTa4aAAD
+"Coyote Lake Feedyard, Inc.",FALSE,SB Plus,V0442,35,55,Bovina,600,1600,001d000000GxWvRAAV
+Tejas Feeders West,FALSE,RAMP,R3000,156,55,Bovina,500,1600,001d000002AJDz2AAH
+"Spenner, Ed",FALSE,Sweet Bran,SB60,53,45,Blair,700,1500,001d000000GxWo8AAF
+Cactus Feedyard Early Settlers Farms LLC,FALSE,RAMP,R4000,33,55,Dalhart,600,1800,001d000002AKdMxAAL
+M Farm Inc,FALSE,Sweet Bran,SB60,104,45,Blair,500,1500,001d000001wseX3AAI
+Van Ess Dairy LLC,FALSE,OneTrak,T6042,150,45,Blair,600,1800,001d000000GxX33AAF
+Friona Feedyard,FALSE,SB Plus,V0395,21,55,Bovina,500,1500,001d000000GxWu2AAF
+UNL - North Platte - WCREC,TRUE,Sweet Bran,SB60,287,45,Blair,600,1800,001d000000IQnVDAA1
+Wilhite Cattle,FALSE,RAMP,R4000,45,55,Bovina,600,1400,001d000001zk65kAAA
+Lost Trail Dairy LLC - #1,FALSE,OneTrak,T7065,50,55,Dalhart,400,1500,001d000000GxWzdAAF
+Lost Trail Dairy LLC - #2,FALSE,OneTrak,T7065,49,55,Dalhart,400,1500,001d000000GxWzeAAF
+Roorda Dairy LLC,FALSE,OneTrak,T6115,135,45,Blair,500,1400,0010V00002IY3iRQAT
+Timberview Farms,FALSE,OneTrak,T6135,133,45,Blair,500,1300,001d000000GxX24AAF
+Morning Star Dairy LLC,FALSE,OneTrak,T7995,10,55,Dalhart,500,1100,001d000000GxX0gAAF
+"Green Plains Cattle Company, LLC",FALSE,SB Plus,V0485,57,55,Bovina,600,1600,0010V00002C33JzQAJ
+Brouwer Dairy,FALSE,OneTrak,T7125,43,55,Bovina,500,1400,001d000000GxWwfAAF
+Faria Southside 2,FALSE,Sweet Bran,SB60,45,55,Bovina,500,1400,0010V00002DFN9hQAH
+Grande Vida LLC,FALSE,OneTrak,T7150,26,55,Bovina,500,1400,001d000000JTa4zAAD
+J7 Dairy LLC(KS),FALSE,OneTrak,T7155,216,55,Dalhart,630,1130,001d000000JTa0EAAT
+"Mc6 Cattle Feeders, Inc.",TRUE,SB Plus,V0505,55,55,Bovina,500,1500,001d000000GxWzhAAF
+Cattlemens Feedlot LTD.,FALSE,SB Plus,V0475,60,55,Bovina,600,1600,001d000000GxWw8AAF
+Dawn Custom Cattle Feeders Inc,FALSE,SB Plus,V0365,57,55,Bovina,600,1600,001d000000GxWx3AAF
+Fox Dairy Ltd.,FALSE,OneTrak,T7995,81,55,Bovina,530,1700,001d000000GxX0jAAF
+Carter Creek Cattle LLC,FALSE,Sweet Bran,SB60,177,45,Blair,600,1800,0010V00002Iax51QAB
+Wood River Dairy,FALSE,OneTrak,T6140,216,45,Blair,600,1800,001d000000GxX2PAAV
+"Dutch Dakota Dairy, LLC",FALSE,OneTrak,T6030,253,45,Blair,600,1800,001d000000GxWtlAAF
+Milk Time Dairy,FALSE,OneTrak,T7995,26,55,Bovina,500,1400,0010V00002DDkIrQAL
+Osterkamp Dairy East,FALSE,OneTrak,T7105,26,55,Bovina,600,1800,0010V00002GrJrLQAV
+Sandy Creek Dairy,FALSE,OneTrak,T7995,185,55,Bovina,500,1400,001d000000GxX1jAAF
+"Brown Cattle Feeders, Inc.",FALSE,SB Plus,V0482,51,55,Bovina,700,1500,001d000000GxWsAAAV
+Mission Dairy,FALSE,OneTrak,T7995,54,55,Bovina,500,1400,001d000000GxX1gAAF
+Fincham Dairy LLC,FALSE,OneTrak,T6105,157,45,Blair,500,1400,001d000000GxWrjAAF
+Texico Jerseys LLC,FALSE,OneTrak,T7995,18,55,Bovina,500,1400,001d000001QLNS6AAP
+Shepperd Feeding Co. Inc.,TRUE,SB Plus,V5120,229,45,Blair,700,1500,001d000000GxWsaAAF
+Wilbur Pudenz Inc.,FALSE,SB Plus,V5095,87,45,Blair,700,1600,001d000000ISiPOAA1
+Van Ess Legacy Dairy,FALSE,OneTrak,T6130,152,45,Blair,600,1800,0010V00002IawzcQAB
+"Tierra Blanca Cattle Feeders,LP",TRUE,RAMP,R3000,43,55,Bovina,800,1600,0010V00002KfdtNQAR
+Southern Sky Dairy,FALSE,OneTrak,T7122,41,55,Bovina,500,1400,001d000000GxX05AAF
+Iowa State University-ISU Beef Nutrition Research Unit,FALSE,Sweet Bran,SB60,149,45,Blair,600,1800,0010V00002K8hHnQAJ
+Leslies Dairy,FALSE,OneTrak,T7995,9,55,Bovina,600,1700,0010V00002JaulwQAB
+Deters Dairy Farm,FALSE,OneTrak,781P,137,45,Blair,500,1400,001d000000GxWryAAF
+Andreasen Feedlot,FALSE,SB Plus,V5087,12,45,Blair,700,1800,001d000000GxWocAAF
+Rottinghaus Holstein Farm Inc.,FALSE,OneTrak,T6100,133,45,Blair,500,1500,001d000001mMpbMAAS
+Adcock Family Ltd Partnership-Infinity Cattle Co,FALSE,SB Plus,V0055,135,55,Dalhart,600,1600,0010V00002IaKHwQAN
+Kabil Cattle,FALSE,RAMP,R4000,28,55,Dalhart,800,1700,001d00000227uUiAAI
+Potter Feedlot - Perico,FALSE,Sweet Bran,SB60,22,55,Dalhart,800,1600,0010V00002JbMVDQA3
+"Providence Dairy, LLC - SD",FALSE,OneTrak,781,229,45,Blair,500,1300,001d000000GxWthAAF
+Texas Agricultural Experiment,TRUE,Sweet Bran,SB60,78,55,Bovina,600,1800,001d000000GxX0EAAV
+Osterkamp Dairy West,FALSE,OneTrak,T7107,26,55,Bovina,500,1500,001d000000GxWyLAAV
+W Diamond Dairy,FALSE,OneTrak,T7110,53,55,Bovina,500,1500,0010V00002C4S8uQAF
+New Mexico State University,TRUE,Sweet Bran,SB60,51,55,Dalhart,600,1800,001d000000GxWwPAAV
+Smith Cattle-The Jericho,FALSE,RAMP,R3000,140,55,Dalhart,600,1500,001d000001mNxeuAAC

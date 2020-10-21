@@ -1,0 +1,19 @@
+customer_name__c,non_medicated_yard__c,grade_family__c,grade_name__c,miles_round_trip__c,avg_mph__c,plant_name,feed_day_start__c,feed_day_end__c,unique_customer_id
+C & B Feeders Inc.,False,Sweet Bran,SB60,61,55,Dalhart,600,1600,001d000000GxWmoAAF
+"Klug, Bill",False,SB Plus,V5020,73,45,Blair,600,1800,001d000000GxWq0AAF
+Logan Valley Feeders Inc.,False,Sweet Bran,SB60,40,45,Blair,700,1700,001d000000GxWpaAAF
+Weitzenkamp Farms Inc.-North,False,Sweet Bran,SB60,38,45,Blair,700,1700,001d000000GxWoiAAF
+Sunderman-East,False,Sweet Bran,SB60,97,45,Blair,700,1700,001d000000GxWosAAF
+"Cumming, Alan",False,Sweet Bran,SB60,59,45,Blair,700,1600,001d000000GxWpFAAV
+Heine Farms Feedyard LLC,False,Sweet Bran,SB60,146,45,Blair,700,1700,001d000000GxWoxAAF
+KMC Farms Ltd.,False,Sweet Bran,SB60,90,45,Blair,700,1700,001d000000GxWpBAAV
+Muller Farms Inc.,False,SB Plus,V5090,40,45,Blair,700,1700,001d000000GxWohAAF
+HS Farms Ltd,False,SB Plus,V5042,89,45,Blair,500,1500,001d000000GxWpCAAV
+Roorda Dairy LLC,False,OneTrak,T6115,135,45,Blair,500,1400,0010V00002IY3iRQAT
+"Green Plains Cattle Company, LLC",False,SB Plus,V0485,57,55,Bovina,600,1600,0010V00002C33JzQAJ
+Faria Southside 2,False,Sweet Bran,SB60,45,55,Bovina,500,1400,0010V00002DFN9hQAH
+"Tierra Blanca Cattle Feeders,LP",True,RAMP,R3000,43,55,Bovina,800,1600,0010V00002KfdtNQAR
+Iowa State University-ISU Beef Nutrition Research Unit,False,Sweet Bran,SB60,149,45,Blair,600,1800,0010V00002K8hHnQAJ
+Leslies Dairy,False,OneTrak,T7995,9,55,Bovina,600,1700,0010V00002JaulwQAB
+Potter Feedlot - Perico,False,Sweet Bran,SB60,22,55,Dalhart,800,1600,0010V00002JbMVDQA3
+W Diamond Dairy,False,OneTrak,T7110,53,55,Bovina,500,1500,0010V00002C4S8uQAF
